@@ -1,0 +1,168 @@
+[1] "Module 12" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 12" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 12" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 24" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 63, p-value = 0.1174
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             13 
+
+[1] "Module 28" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 25, p-value = 1
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 2"  "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 27" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             13 
+
+[1] "Module 23" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 41, p-value = 0.602
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 12" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 24" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 63, p-value = 0.1174
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             13 
+
+[1] "Module 28" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 25, p-value = 1
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 2"  "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
+[1] "Module 27" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 47, p-value = 0.4128
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             13 
+
+[1] "Module 23" "abundance"
+
+	Pettitt's test for single
+	change-point detection
+
+data:  data[, abundance]
+U* = 41, p-value = 0.602
+alternative hypothesis: two.sided
+sample estimates:
+probable change point at time K 
+                             15 
+
